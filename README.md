@@ -1,4 +1,10 @@
-# Run the file using python list.py in the console
+# Installation
+Download the repository from the project page or go to the "Releases" area and download it there.
+
+Then extract the .zip file using WinRAR or 7zip, (any unzipping tool should work) into
+its own folder. 
+
+# Usage
 
 example: python list.py
 
