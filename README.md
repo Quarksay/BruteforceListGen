@@ -8,3 +8,7 @@ Format: Pre-text (tom), starting number (1) ending number (30)
 Output: tom1
 Output: tom2
 Output: tom3, etc.
+
+*im not responsible for any illegal or unethical actions
+that you do with this tool. this is meant for pentesters
+and should only be used with permission from the target*
